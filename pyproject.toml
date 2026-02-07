@@ -1,0 +1,14 @@
+[project]
+name = "datathon-2026"
+version = "0.1.0"
+description = "UW DubsTech's 7th Annual Datathon project"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.uv]
+dev-dependencies = []
